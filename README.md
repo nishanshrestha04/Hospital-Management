@@ -37,4 +37,5 @@ The project demonstrates the use of **Object-Oriented Programming (OOP)**, file 
 Clone the repository (or download the project files):
 ```bash
 git clone https://github.com/nishanshrestha04/Hospital-Management.git
-cd hospital-management-system
+cd Hospital-Management
+
